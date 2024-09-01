@@ -23,6 +23,7 @@
     "zone.js": "~0.14.10"
   },
   "devDependencies": {
+    "@angular-devkit/build-angular": "^18.2.2",
     "@angular/cli": "^18.2.2",
     "@angular/compiler-cli": "^18.2.0",
     "@types/jasmine": "~5.1.0",
@@ -32,6 +33,24 @@
     "karma-coverage": "~2.2.0",
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
+    "ng-packagr": "^18.2.0",
     "typescript": "~5.5.2"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.2.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venk8h/ng-first.git"
+  },
+  "keywords": [
+    "angular",
+    "first",
+    "test"
+  ],
+  "author": "Venkatesh segar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venk8h/ng-first/issues"
+  },
+  "homepage": "https://github.com/venk8h/ng-first#readme"
 }

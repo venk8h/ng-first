@@ -11,6 +11,11 @@
     "noFallthroughCasesInSwitch": true,
     "skipLibCheck": true,
     "isolatedModules": true,
+    "paths": {
+      "ng-first": [
+        "./dist/ng-first"
+      ]
+    },
     "esModuleInterop": true,
     "sourceMap": true,
     "declaration": false,
